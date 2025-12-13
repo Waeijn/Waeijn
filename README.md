@@ -1,5 +1,5 @@
 # John Wayne Landong
-###3rd Year Computer Science Student
+### 3rd Year Computer Science Student
 Computer Science undergraduate with hands-on experience in academic and personal software projects<br><br>I’m a driven Software Engineer in training, focused on building well-structured, reliable, and maintainable applications. My background includes object-oriented programming, database-driven systems, and desktop application development, with growing exposure to full-stack and backend technologies.<br><br>I specialize in designing clean system logic, implementing secure data handling, and applying software engineering fundamentals — from Java-based applications and SQL integration to system modeling and architecture — with a strong interest in cybersecurity and system integrity.
 
 
